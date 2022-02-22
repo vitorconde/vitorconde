@@ -1,7 +1,9 @@
 # Salve! 🤓
 
 - 🎲 Atualmente trabalhando com Arquitetura e Engenharia de dados
-- 🎮 Estudando sobre jogos e NFT
+- 🎮 Estudando sobre desenvolvimento de jogos e NFT
+- 💻 Bacharelado em Engenharia da Computação - FIAP
+- 🧠 MBA Artificial Intelligence & Machine Learning
 
 <div align="center">
   <a href="https://github.com/vitorconde">
@@ -9,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorconde&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
 <!--Data Scientist -->
   <img align="center" alt="Vitor-Jup" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Vitor-pand" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
@@ -34,8 +36,8 @@
 </div>
   </br>
   
-<div> 
+<div align="center"> 
   <a href="https://www.instagram.com/conde_vitor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vitor.conde@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitor-conde-36114150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/vitor-conde-36114150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
