@@ -1,6 +1,6 @@
 # Salve! 🤓
 
-- 🎲 Mais de 7 anos de experiência com ETL, BI/BA e SAS
+- 🎲 Mais de 9 anos de experiência com ETL, BI/BA e SAS
 - 🐱‍👤 Atualmente trabalhando com Arquitetura e Engenharia de dados no <a href="https://www.sas.com/pt_br/home.html"> SAS </a>
 - 🎮 Estudando sobre desenvolvimento de jogos
 - 💻 Bacharelado em Engenharia da Computação - FIAP
